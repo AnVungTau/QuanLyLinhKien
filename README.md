@@ -1,5 +1,5 @@
 # QuanLyLinhKien
-
+preview
 ![image](https://github.com/user-attachments/assets/a06cc297-e9e1-432a-968b-99370a68b055)
 ![image](https://github.com/user-attachments/assets/bc56a0f0-29be-446e-85df-c61b8968fb70)
 ![image](https://github.com/user-attachments/assets/bf6c7a53-80f1-4adc-8210-a29a594d25fa)
